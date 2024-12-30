@@ -1,0 +1,1 @@
+my.properties.name=hello I am from GitHub server
